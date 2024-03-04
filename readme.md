@@ -1,3 +1,8 @@
+**Этот сайт был создан с использованием:** <br>
+сборки [liga-accelerator-template](https://github.com/htmlonelove/liga-accelerator-template), <br>
+макета [Canva](https://www.canva.com/design/DAF-i4FoWFM/snV8_5pnZa_MQNfXTieHqQ/view?utm_content=DAF-i4FoWFM&utm_campaign=designshare&utm_medium=link&utm_source=editor), <br>
+фавиконки [Culmbio - Flaticon](https://www.flaticon.com/free-icons/frog).
+
 ## Краткая инструкция по работе
 Для начала работы у вас должент быть установлен **Node.js**
 
